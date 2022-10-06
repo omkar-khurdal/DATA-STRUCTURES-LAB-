@@ -50,4 +50,22 @@ int main() {
 
     }
   }
+  
+  
+  
+      int i, j;
+    for (i = 0; i < row; i++)
+    {
+        for (j = 0; j < column; j++)
+        {
+            if (i < j)
+            {
+                cout << "0" << " ";
+            }
+            else
+            cout << a[i][j] << " ";
+        }
+        cout << endl;
+    }
+}
 }
