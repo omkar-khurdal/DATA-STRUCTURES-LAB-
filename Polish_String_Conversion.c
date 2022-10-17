@@ -1,4 +1,4 @@
-//Refer Infix_Postfix_Algorithm.txt 
+//Refer Polish_String_Conversion.txt 
 
 #include<stdio.h>
 #include<stdlib.h>      
